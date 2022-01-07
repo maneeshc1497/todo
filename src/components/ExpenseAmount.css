@@ -1,0 +1,10 @@
+.expense-amount{
+    background-color: #353282;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid whitesmoke;
+    font-size: x-large;
+    color: whitesmoke;
+    cursor: pointer;
+
+}

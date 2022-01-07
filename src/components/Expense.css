@@ -1,0 +1,13 @@
+.expense{
+    background-color: #222222;
+    margin: 1rem auto;
+    padding: 1rem;
+    max-width: 95%;
+    width: 50rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 1rem;
+}
+.expense h3{
+    font-family: inherit;
+    color: whitesmoke;
+}

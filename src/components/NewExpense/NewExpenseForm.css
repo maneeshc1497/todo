@@ -1,0 +1,40 @@
+.new-expense__form{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    text-align: left;
+    overflow: hidden;
+}
+.new-expense__control{
+    display: block;
+    
+    
+    
+}
+.new-expense__control input{
+    border-radius: 8px;
+    padding: 8px;
+    border: none;
+    font-family: inherit;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    width: 20rem;
+    display: block;
+}
+.new-expense__control label{
+    font-family: inherit;
+    padding: 8px;
+    font-weight: bold;
+    
+}
+
+.new-expense__control input:focus{
+    outline: none;
+}
+.new-expense__action button{
+    margin-left: 10px;
+}
+    
+   
+
+

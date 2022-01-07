@@ -1,0 +1,25 @@
+.new-expense{
+     background-color: rgb(85, 76, 167);
+    margin: 1rem auto;
+    padding: 1rem;
+    max-width: 95%;
+    width: 50rem;
+    border-radius: 1rem; 
+    text-align: center;    
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    
+   
+}
+.new-expense button{
+    background-color: #353282;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid whitesmoke;
+    font-size: large;
+    color: whitesmoke;
+    margin-right: 1px;
+    cursor: pointer;
+    
+    
+} 
+
